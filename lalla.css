@@ -1,0 +1,40 @@
+#nav1{
+    background: black;
+    color:white;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+    font-family: sans-serif;
+    margin:auto;
+    height: 30px;
+    padding-top:5px;
+    padding-left: 10px;
+
+}
+body{
+    margin:0px auto;
+}
+#image{
+    margin-top: 10px;
+    margin-left:10px;
+    align-content: center;
+    float: left;
+    height: 40%;
+    width: 20%;
+}
+#img1{
+    width:auto;
+    height: auto;
+}
+#image2{
+    margin-top: 10px;
+    margin-left:10px;
+    float: left;
+    align-content: right;
+    height: 40%;
+    width: 20%;
+    
+}
+#img2{
+    width:auto;
+    height: auto;
+}
